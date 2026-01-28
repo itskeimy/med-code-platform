@@ -177,3 +177,17 @@ JWT_SECRET=your_secret_key
 - Результаты с уведомлениями
 - AppBar с навигацией
 - Боковое меню (Drawer)
+
+## 📸 Screenshots
+
+### Авторизация
+<img src="https://i.postimg.cc/N08tkNg7/photo_2026_01_29_07_26_28.jpg" alt="Auth Page" width="400"/>
+
+### Главное меню с задачами
+<img src="https://i.postimg.cc/Bv53Bhqp/photo_2026_01_29_07_26_51.jpg" alt="Dashboard" width="400"/>
+
+### Открытая задача
+<img src="https://i.postimg.cc/YSN7zXpx/photo_2026_01_29_07_27_09.jpg" alt="Problem" width="400"/>
+
+### Профиль пользователя
+<img src="https://i.postimg.cc/CKC0svFN/photo_2026_01_29_07_27_32.jpg" alt="Profile" width="400"/>
